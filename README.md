@@ -9,6 +9,7 @@ There are two main scripts:
 Once data is provided, run inout_to_csv.py to generate sequence data for the models, including the summaries. One file will be generated for the summary type specified in the ED_config.json under the 'summary_types' key. This key accepts summary type codes, as follows:
 
 SETW - standard evaluation w/ TW granularity
+
 SESTW - standard evaluation w/ TW granularity
 GE - goal evaluation
 *IT - if-then pattern 
