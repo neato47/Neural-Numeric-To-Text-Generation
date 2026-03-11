@@ -1,4 +1,4 @@
-# Neural-Numeric-To-Text-Generation
+# Neural Numeric-To-Text Generation
 
 As the data used to create these models requires permission from the Singaporean Management University, the data will not be provided. 
 
